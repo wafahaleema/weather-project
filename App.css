@@ -1,0 +1,63 @@
+.weatherbg{
+    background:url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Cloudy_Sky_%2841158984%29.jpeg/1280px-Cloudy_Sky_%2841158984%29.jpeg);
+    background-size: cover;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.heading{
+    color: rgb(3, 37, 66);
+    font-weight: 900;
+}
+.container{
+    height: 20%;
+    width: 30%;
+}
+.form-control{
+    height: 50%;
+    width: 100%;
+}
+.btn-primary{
+    height: 50%;
+    width: 100%;
+    background-color: blue;
+    color:aliceblue;
+    border: aliceblue;
+}
+
+  
+.weatherResultBox{
+    box-shadow: 40px;
+    margin: auto;
+    width: 400px;
+    height: 300px;
+    margin-top: 30px;
+    background-color:aliceblue
+  
+}
+.weatherIcon{
+    margin-top: 2rem;
+    margin-left: 150px;
+    height: 100px;
+    width: 100px;
+
+
+}
+.weatherCity{
+    font-size: 35px;
+    color: rgb(7, 7, 7);
+    text-align: center;
+}
+.weatherTemp{
+    font-size: 45px;
+    color: rgb(10, 10, 10);
+    text-align: center;
+    margin-top: 2rem;
+    font-weight: 900;
+}
+
+
+
+
